@@ -1,10 +1,10 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: https://aimho23.github.io
+baseurl: /portfolio/
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: aimho Portfolio
+email: aimho23@gmail.com
+description: "조준호의 포트폴리오입니다."
 
 
 # Team names, titles and social links
