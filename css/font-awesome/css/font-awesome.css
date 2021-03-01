@@ -2084,3 +2084,10 @@
 .fa-percent:before {
   content: "\f295";
 }
+
+.fa-palette:before {
+  content: "\f53f";
+}
+.fa-handshake:before {
+  content: "\f2b5";
+}
