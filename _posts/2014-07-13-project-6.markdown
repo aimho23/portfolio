@@ -3,12 +3,11 @@ title: 중간지점
 subtitle: Graphic Design
 layout: default
 modal-id: 6
-date: 2014-07-15
+date: 2016-07-01
 img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+thumbnail: Jungan_thumbnail.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: July 2016
 category: Project
 description: 중간지점 <a href="https://brunch.co.kr/@aimho/20">중간지점 Document</a>
 
