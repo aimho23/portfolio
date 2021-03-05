@@ -11,54 +11,43 @@ description: "조준호의 포트폴리오입니다."
 people:
 - name: 해외경험
   pic: 1
-  position: 덴마크 워킹홀리데이
+  position: 덴마크 워킹홀리데이로 1년 간 현지에서 바텐더로 근무
   social:
-    - title: twitter
-      url: #
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      url: https://www.facebook.com/magasasadimsumandcocktails
+
 
 - name: 수상경력
   pic: 2
-  position: 데일카네기 영상공모전 대상 <br> 한국 기상청 영상 공모전 입선<br>
+  position: 데일카네기 영상공모전 대상 <br> 한국 기상청 영상 공모전 입선</br>
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+    - title: youtube
+      url: https://youtu.be/B_Mn5Jlw0J8
 
 - name: 디지털 역량
   pic: 3
-  position: 5만 팔로워 Facebook Page 운영, 파이썬/판다스/텐서플로우 강의 수료
+  position: 5만 팔로워 Facebook Page 운영 <br>파이썬/판다스/텐서플로우 강의 수료</br>
   social:
-    - title: twitter
-      url: #
     - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://www.facebook.com/choskitchen/
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+  - title: instagram
+    url: https://www.instagram.com/aim_ho/
+  - title: blog
+    url: https://brunch.co.kr/@aimho
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/aimho23
+  - title: behance
+    url: https://www.behance.net/aim0923473e
+
 
 # Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+#address:
+ # - line: 3481 Melrose Place
+  #- line: Beverly Hills, CA 90210
 
 # Build settings
 markdown: kramdown
