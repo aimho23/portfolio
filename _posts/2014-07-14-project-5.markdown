@@ -10,6 +10,6 @@ alt: image-alt
 project-date: March 2015
 client: 소규모 NGO, 사회적 기업
 category: Project
-description: 디지털 마케팅에 어려움을 겪는 소규모 NGO와 사회적 기업을 대상으로 한 재능기부 활동. https://www.facebook.com/aNGOcomm/
+description: 디지털 마케팅에 어려움을 겪는 소규모 NGO와 사회적 기업을 대상으로 한 재능기부 활동. <a> https://www.facebook.com/aNGOcomm/</a>
 
 ---
