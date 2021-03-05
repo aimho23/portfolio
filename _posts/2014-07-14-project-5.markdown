@@ -4,12 +4,13 @@ subtitle: NGO 대상 디지털마케팅 재능기부
 layout: default
 modal-id: 5
 date: 2015-03-01
-img: startup-framework.png
+[![Video Label]: (https://youtu.be/rzCGWEMdHyM/5.jpg)](https://youtu.be/rzCGWEMdHyM)
+
 thumbnail: ango_thumbnail.jpg
 alt: image-alt
 project-date: March 2015
 client: 소규모 NGO, 사회적 기업
 category: Project
-description: 디지털 마케팅에 어려움을 겪는 소규모 NGO와 사회적 기업을 대상으로 한 재능기부 활동. <a> https://www.facebook.com/aNGOcomm/</a>
+description: 디지털 마케팅에 어려움을 겪는 소규모 NGO와 사회적 기업을 대상으로 한 재능기부 활동. <a href="https://www.facebook.com/aNGOcomm/">a.NGO 페이스북 </a>
 
 ---
