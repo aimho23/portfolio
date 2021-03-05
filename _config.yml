@@ -22,7 +22,7 @@ people:
 
 - name: 수상경력
   pic: 2
-  position: 데일카네기 영상공모전 대상, 한국 기상청 영상 공모전 입선
+  position: 데일카네기 영상공모전 대상 <br> 한국 기상청 영상 공모전 입선<br>
   social:
     - title: twitter
       url: #
