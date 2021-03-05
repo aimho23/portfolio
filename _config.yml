@@ -9,9 +9,9 @@ description: "조준호의 포트폴리오입니다."
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: 해외경험
   pic: 1
-  position: Lead Designer
+  position: 덴마크 워킹홀리데이
   social:
     - title: twitter
       url: #
@@ -20,9 +20,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: 수상경력
   pic: 2
-  position: Lead Marketer
+  position: 데일카네기 영상공모전 대상, 한국 기상청 영상 공모전 입선
   social:
     - title: twitter
       url: #
@@ -31,9 +31,9 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: 디지털 역량
   pic: 3
-  position: Lead Developer
+  position: 5만 팔로워 Facebook Page 운영, 파이썬/판다스/텐서플로우 강의 수료
   social:
     - title: twitter
       url: #
