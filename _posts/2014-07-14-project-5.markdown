@@ -4,7 +4,7 @@ subtitle: NGO 대상 디지털마케팅 재능기부
 layout: default
 modal-id: 5
 date: 2015-03-01
-video : https://youtu.be/rzCGWEMdHyM
+link : https://youtu.be/rzCGWEMdHyM
 thumbnail: ango_thumbnail.jpg
 alt: image-alt
 project-date: March 2015
