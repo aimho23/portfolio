@@ -4,7 +4,7 @@ subtitle: 독립운동가를 위한 프로젝트
 layout: default
 modal-id: 6
 date: 2016-07-01
-img: https://fb.watch/41_vqnMC6W/
+img: jungan.png
 thumbnail: Jungan_thumbnail.jpg
 alt: image-alt
 project-date: July 2016
