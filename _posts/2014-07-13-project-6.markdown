@@ -9,6 +9,6 @@ thumbnail: Jungan_thumbnail.jpg
 alt: image-alt
 project-date: July 2016
 category: Project
-description: 독립운동가의 업적은 알지만 얼굴을 모르는 현실을 재고하기 위해 펼친 프로젝트. 독립운동가를 선거포스터에 담았습니다. <br><a href="https://brunch.co.kr/@aimho/20">중간지점 브런치</a></br>
+description: 프로젝트 기획, 선거포스터 제작, 영상편집을 담당하였습니다. <br>독립운동가의 업적은 알지만 얼굴을 모르는 현실을 재고하기 위해 펼친 프로젝트. 독립운동가를 선거포스터에 담았습니다. <br><a href="https://brunch.co.kr/@aimho/20">중간지점 브런치</a></br>
 
 ---
