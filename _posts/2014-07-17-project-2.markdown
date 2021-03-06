@@ -1,15 +1,15 @@
 ---
-title: 캐치크루
-subtitle: Website Design
+title: CatchCrew (런칭 대기)
+subtitle: 신사업 개발
 layout: default
 modal-id: 2
 date: 2019-01-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: catchcrew_thumbnail.png
+thumbnail: catchcrew_thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+project-date: january 2019
+client: CatchCrew
+category: New business
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---

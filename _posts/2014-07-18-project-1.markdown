@@ -1,15 +1,15 @@
 ---
-title: 베트남
-subtitle: Website Design
+title: 베트남 진출(예정)
+subtitle: 신사업 개발
 layout: default
 modal-id: 1
 date: 2019-12-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: vietnam.jpg
+thumbnail: vietnam_thumbnail.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+project-date: december 2019
+client: 진학사
+category: New business
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---
