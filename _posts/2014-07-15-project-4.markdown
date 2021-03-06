@@ -1,15 +1,14 @@
 ---
-title: 화이자 신규 캠페인
-subtitle: Website Design
+title: 화이자 센트룸
+subtitle: 디지털 광고 캠페인
 layout: default
 modal-id: 4
 date: 2017-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+img: centrum.png
+thumbnail: centrum_thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+project-date: July 2017
+client: Pfizer
+category: Digital ad
+description: 초기 아이디어 도출, 시안 제작을 담당하였습니다. 초기 5초 광고를 목표로 기획되었으나 아이디어를 인정받아 영화관 광고 등으로 확장되어 집행되었습니다. 센트룸은 전년ㅍ동기대비 26%의 매출 성장을 이뤘습니다.
 ---
