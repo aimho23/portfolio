@@ -1,5 +1,5 @@
 ---
-title: CatchCrew (런칭 대기)
+title: CatchCrew (런칭 예정)
 subtitle: 신사업 개발
 layout: default
 modal-id: 2
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: january 2019
 client: CatchCrew
 category: New business
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: 아르바이트 시장 진출을 위해 아이디어를 기획하였고 설문을 위한 목업을 제작하였습니다. 5차례에 걸쳐 500여명의 대학생, 점주, 기업에게 설문을 진행하였습니다. 해당 내용을 정리하여 사업전략을 프레젠테이션하였고 신사업본부가 출범하게 되었습니다. 이후 신사업본부는 구체적인 서비스 기획을 담당하였고 저는 상표권 등록, 약관/교육 정책 등을 제작하였고 2021년 런칭을 앞두고 있습니다.
 
 ---

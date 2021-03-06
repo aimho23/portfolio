@@ -10,5 +10,5 @@ alt: image-alt
 project-date: december 2017
 client: Mcdonald
 category: Digital ad
-description:  제작에 크리스피오리엔탈 치킨 버거<br><a href="https://youtu.be/wB2G7o6snTE">맥도날드 유튜브</a> 
+description: 광고 제작과정과 외주 프로덕션과 커뮤니케이션에 참여하였습니다. 맥스파이시상하이버거에 이은 두번째 치킨버거인 크리스피오리엔탈 치킨버거의 광고입니다.<br><a href="https://youtu.be/wB2G7o6snTE">맥도날드 유튜브</a> 
 ---

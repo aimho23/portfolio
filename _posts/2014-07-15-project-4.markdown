@@ -1,5 +1,5 @@
 ---
-title: 화이자 센트룸
+title: Pfizer centrum
 subtitle: 디지털 광고 캠페인
 layout: default
 modal-id: 4
