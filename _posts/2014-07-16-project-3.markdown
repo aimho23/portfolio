@@ -10,5 +10,5 @@ alt: image-alt
 project-date: december 2017
 client: Mcdonald
 category: Digital ad
-description: 제작에 크리스피오리엔탈 치킨 버거
+description:  제작에 크리스피오리엔탈 치킨 버거<br><a href="https://youtu.be/wB2G7o6snTE">맥도날드 유튜브</a> 
 ---
