@@ -4,11 +4,11 @@ subtitle: 디지털 광고 캠페인
 layout: default
 modal-id: 3
 date: 2017-12-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: mcdonald.png
+thumbnail: mcdonald_thumbnail.png
 alt: image-alt
 project-date: december 2017
 client: Mcdonald
 category: Digital ad
-description: ㄴㅇ
+description: 제작에 크리스피오리엔탈 치킨 버거
 ---
